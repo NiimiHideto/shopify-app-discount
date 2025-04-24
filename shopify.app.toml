@@ -3,7 +3,7 @@
 client_id = "80af7acc2078823ab1375a6385b607f5"
 name = "test-app-discount"
 handle = "test-app-discount-7"
-application_url = "https://posts-raised-chess-phone.trycloudflare.com"
+application_url = "https://updates-managing-islands-addresses.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://posts-raised-chess-phone.trycloudflare.com/auth/callback",
-  "https://posts-raised-chess-phone.trycloudflare.com/auth/shopify/callback",
-  "https://posts-raised-chess-phone.trycloudflare.com/api/auth/callback"
+  "https://updates-managing-islands-addresses.trycloudflare.com/auth/callback",
+  "https://updates-managing-islands-addresses.trycloudflare.com/auth/shopify/callback",
+  "https://updates-managing-islands-addresses.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
